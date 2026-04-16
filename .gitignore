@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Hadoop / configs
+*.xml
+*.cmd
+*.sh
+*.properties
+*.template
+*.cfg
+workers
+shellprofile.d/
+
+# Output files
+output.csv
+/output/
+
+# Mac
+.DS_Store
